@@ -130,3 +130,9 @@ RewriteEngine On
 RewriteRule ^post/([a-zA-Z0-9-/]+)$ post.php?post_url=$1  
 RewriteRule ^post/([a-zA-Z-0-9-]+)/ post.php?post_url=$1  
 ```
+
+## Connect With Me <br>
+Telegram - https://t.me/techcvr <br>
+Discord - https://discord.gg/bcH8nGU <br>
+YouTube - https://www.youtube.com/techcvr <br>
+Instagram - https://www.instagram.com/vishalgaire/
