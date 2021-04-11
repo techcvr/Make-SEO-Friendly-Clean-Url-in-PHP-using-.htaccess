@@ -1,0 +1,1 @@
+# Make-SEO-Friendly-Clean-Url-in-PHP-using-.htaccess
